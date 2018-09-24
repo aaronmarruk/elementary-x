@@ -34,7 +34,7 @@ You'll need ```git``` to install this theme
 
 1. Open terminal and execute the following
 ```
-git clone https://github.com/surajmandalcell/elementary-x.git ~/.themes/elementary-x
+git clone https://github.com/aaronmarruk/elementary-x.git ~/.themes/elementary-x
 ```
 2. Select this theme in tweak tool or execute the following 
 ```
